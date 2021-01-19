@@ -1,0 +1,13 @@
+<?php
+
+namespace A
+
+usepocketmine\Player;
+use pocketmine\Server;
+
+use pocketmine\plugin\RegisteredListener;
+
+use pocketmine\scheduler\Task;
+
+
+use pocketmine\plugin\PluginBase;
